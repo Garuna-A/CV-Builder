@@ -1,0 +1,80 @@
+.section{
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  background-color: #1e1e1e;
+  border-top: 2px solid #EEEEEE;
+}
+
+.container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.resume{
+  width: 100%;
+  max-width: 794px;
+  min-height: 1123px;
+  margin: 0 auto;
+  background-color: white;
+  font-family: "Ancizar Serif", serif;
+  color: #1e1e1e;
+  padding: 40px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+}
+
+#heading{
+  text-align: center;
+}
+
+.name{
+  font-size: 50px;
+  text-align: center;
+}
+.otherDetails{
+  display: flex;
+  justify-content: space-around;
+}
+
+.education{
+  display: flex;
+  flex-direction: column;
+}
+#education,#workExperience{
+  margin-bottom: 2.5px;
+}
+hr{
+  margin: none; 
+  padding: none;
+  width: 100%;
+  height: 1px;
+}
+#schoolNameAndGraduation{
+  display: flex;
+  justify-content: space-between;
+}
+#schoolName{
+  font-size: 20px;
+}
+#degree{
+  font-size: 18px;
+  color: darkgray;
+}
+#graduatedOn{
+  font-size: 20px;
+  text-align: right;
+}
+#gradeList{
+  margin: none;
+  padding: none;
+}
+
+#companyNameAndWorkDate{
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+input,textarea{
+  background-color: #393E46;
+}
