@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import PersonalInfoForm from './components/personalInfoForm.jsx';
-import WorkExperience from './components/workExperience.jsx';
+import PersonalInfoForm from './components/PersonalInfoForm.jsx';
+import WorkExperience from './components/WorkExperience.jsx';
 import Project from './components/Projects.jsx';
 import EducationalExperience from './components/EducationalExperience.jsx';
 import phoneIcon from './assets/phone-call.png';
