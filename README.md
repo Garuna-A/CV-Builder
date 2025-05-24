@@ -48,6 +48,7 @@ This project is built using the following technologies:
 * **Modular Sections:** Dedicated sections for personal details, education, and work experience.
 * **Add/Remove Entries:** Dynamically add or remove multiple education and work experience entries.
 * **User-Friendly Interface:** Clean and straightforward design for easy navigation.
+* **Example CV:**![CV Builder Screenshot](https://github.com/Garuna-A/CV-Builder/blob/main/src/assets/resume-sample.png)
 
 ---
 
