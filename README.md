@@ -2,6 +2,9 @@
 
 ![Project Status](https://img.shields.io/badge/status-in%20progress-yellow.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/84c03ea4-3b0e-4ce4-ab08-780a19ad0e0b/deploy-status)](https://cvbuilder01.netlify.app/)
+
+![CV Builder Screenshot](https://github.com/Garuna-A/CV-Builder/blob/main/src/assets/resume-sample.png)
 
 A simple and intuitive CV (Curriculum Vitae) builder application built as a learning project for The Odin Project, focusing on mastering React fundamentals.
 
@@ -42,13 +45,22 @@ This project is built using the following technologies:
 
 ---
 
+## Live Demo
+
+Experience the CV Builder live!
+
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://cvbuilder01.netlify.app/)
+
+Or visit directly: [https://cvbuilder01.netlify.app/](https://cvbuilder01.netlify.app/)
+
+---
 ## Features
 
 * **Real-time CV Preview:** See your CV update instantly as you input information.
 * **Modular Sections:** Dedicated sections for personal details, education, and work experience.
 * **Add/Remove Entries:** Dynamically add or remove multiple education and work experience entries.
 * **User-Friendly Interface:** Clean and straightforward design for easy navigation.
-* **Example CV:**![CV Builder Screenshot](https://github.com/Garuna-A/CV-Builder/blob/main/src/assets/resume-sample.png)
+
 
 ---
 
