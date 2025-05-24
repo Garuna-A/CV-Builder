@@ -51,7 +51,6 @@ Experience the CV Builder live!
 
 [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://cvbuilder01.netlify.app/)
 
-Or visit directly: [https://cvbuilder01.netlify.app/](https://cvbuilder01.netlify.app/)
 
 ---
 ## Features
